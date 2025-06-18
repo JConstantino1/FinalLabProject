@@ -4,6 +4,6 @@ Final Project : Calculator
 
 
 Group Members:  
-    Juzthin Constantino  
-    Josh Tejada  
-    Rainjersie B Querubin  
+      Juzthin Constantino  
+      Josh Tejada  
+      Rainjersie B Querubin  
